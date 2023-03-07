@@ -9,3 +9,4 @@
 *.user
 */appsettings.Local.json
 /launchSettings.json
+/node_modules
